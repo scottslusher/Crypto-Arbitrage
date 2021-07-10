@@ -1,6 +1,6 @@
 # Crypto-Arbitrage
 
-![](Starter_Code/Starter_Code/Images/cryptocurrency_arbitrage_strategies_image.jpg)
+![](Starter_Code/Starter_Code/Images/cryptocurrency_arbitrage_strategies_image.jpg =100x20)
 
 ## Crypto Arbitrage
 
