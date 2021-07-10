@@ -34,3 +34,19 @@ from pathlib import Path
 
 ---
 
+## Usage with Examples
+
+---
+
+## Contributors
+
+Brought to you by Rice FinTech Boot Camp Student
+
+* Scott Slusher
+* scottslusher22@gmail.com
+
+---
+
+## License
+
+MIT License
