@@ -46,12 +46,12 @@ There are several ways a user can walk through the program that are unique to yo
 * Allows the user to enter/click through the program one cell of code at a time to reveal the flow and answers. 
     * There are 2 ways to accomplish the **data discovery**
         * Select the cell you want to run and hit Shift+Enter. 
-        **You must wait for the green check mark indicator before entering through the next cell**
+        * **You must wait for the green check mark indicator before entering through the next cell**
         
         ![shift_enter](Starter_Code/Starter_Code/Images/run_kernel_with_shift_enter.gif)
         
         * Select the cell you want to run and hit the play button in the top left corner of the cell
-        **You must wait for the green check mark indicator before clicking through the next cell**
+        * **You must wait for the green check mark indicator before clicking through the next cell**
         
         ![play_button](Starter_Code/Starter_Code/Images/run_kernel_with_play_button.gif)
 
