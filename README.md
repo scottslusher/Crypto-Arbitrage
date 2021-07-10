@@ -45,8 +45,10 @@ There are several ways a user can walk through the program that are unique to yo
 1) The **data discovery** method:
 * Allows the user to enter/click through the program one cell of code at a time to reveal the flow and answers. 
     * There are 2 ways to accomplish the **data discovery**
-        * Select the cell you want to run and hit Ctrl+Enter
+        * Select the cell you want to run and hit Shift+Enter
+        ![shift_enter](Starter_Code/Starter_Code/Images/run_kernel_with_shift_enter.gif)
         * Select the cell you want to run and hit the play button in the top left corner of the cell
+        ![play_button](Starter_Code/Starter_Code/Images/run_kernel_with_play_button.gif)
 2) The **data explosion** method:
 * Allows the user to run all cells consecutively then view the program in it's entirety by simply scrolling down through the program.
 
