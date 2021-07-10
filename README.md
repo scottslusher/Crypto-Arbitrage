@@ -38,12 +38,12 @@ from pathlib import Path
 
 To use the Crypto Arbitrage Program (CAP) simply:
 * Clone the repository to your local computer
-* From your GitBash/Terminal/Command Line launch either Jupyter Lab, or VSCode
-* Open the **crypto_arbitrage.ipynb** and begin entering through the program
+* From your GitBash / Terminal / Command Line launch either Jupyter Lab browser, or VSCode with Jupyter Lab enabled
+* Open the **crypto_arbitrage.ipynb** and begin your **preferred user experience** within Jupyter Lab
 
-There are several ways a user can walk through the program that are unique to your preferred user experience. 
+There are several ways a user can walk through the program that are unique to your **preferred user experience**. 
 1) The **data discovery** method:
-* Allows the user to enter/click through the program one cell of code at a time to reveal the flow and answers. 
+* Allows the user to enter/click through the program one cell of code at a time to follow the logic and answers. 
     * There are 2 ways to accomplish the **data discovery**
         * Select the cell you want to run and hit Shift+Enter. 
         * **You must wait for the green check mark indicator before entering through the next cell**
