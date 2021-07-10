@@ -10,7 +10,7 @@ Welcome to my repository for Crypto Arbitrage. The purpose of this program is to
 
 ## Technology 
 
-This project leverages python 3.7 with the following libraries:
+This project leverages python 3.7.9 within Jupyter Lab using the following libraries:
 
 * Pandas
 
@@ -22,7 +22,7 @@ This project leverages python 3.7 with the following libraries:
 
 ## Installation Guide
 
-Before running the program make sure to import the following libraries: 
+The program must be run in a Jupyter Lab setting (either in browser, or VSCode). Make sure to import the following libraries before beginning: 
 
 ```python
 import pandas as pd
@@ -35,6 +35,20 @@ from pathlib import Path
 ---
 
 ## Usage with Examples
+
+To use the Crypto Arbitrage Program (CAP) simply:
+* Clone the repository to your local computer
+* From your GitBash/Terminal/Command Line launch either Jupyter Lab, or VSCode
+* Open the **crypto_arbitrage.ipynb** and begin entering through the program
+
+There are several ways a user can walk through the program that are unique to your preferred user experience. 
+1) The **data discovery** method:
+* Allows the user to enter/click through the program one cell of code at a time to reveal the flow and answers. 
+    * There are 2 ways to accomplish the **data discovery**
+        * Select the cell you want to run and hit Ctrl+Enter
+        * Select the cell you want to run and hit the play button in the top left corner of the cell
+2) The **data explosion** method:
+* Allows the user to run all cells consecutively then view the program in it's entirety by simply scrolling down through the program.
 
 ---
 
