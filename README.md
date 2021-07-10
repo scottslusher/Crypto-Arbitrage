@@ -24,13 +24,13 @@ This project leverages python 3.7 with the following libraries:
 
 Before running the program make sure to import the following libraries: 
 
-'''python
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
 %matplotlib inline
-'''
+```
 
 ---
 
